@@ -1,0 +1,20 @@
+
+/* NAVBAR */
+
+.collapse{
+    justify-content: center;
+    letter-spacing:  8px;
+    font-family: 'Alfa Slab One';font-size: 22px;
+    color:white;
+    text-align: center;
+}
+.bannerphoto{
+  width: 100%;
+  height: auto;
+}
+.card img{
+    height: 280px;
+}
+.card-body{
+    height: auto;
+}
